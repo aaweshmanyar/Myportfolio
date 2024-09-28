@@ -699,6 +699,14 @@ form textarea {
   }
 }
 
+@media (max-width: 420px){
+  .portfolio-content > div {
+    flex-basis: 100%; /* Display 1 item per row */
+    max-width: 100%;
+  }
+
+}
+
 
 
 @media (max-width: 340px) {
