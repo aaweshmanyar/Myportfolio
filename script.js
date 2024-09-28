@@ -33,7 +33,7 @@ darkmode.onclick = () => {
 const typewriterData = [
   { id: "typewriter-greeting", text: "Hello, I'm" },
   { id: "typewriter-name", text: "Aawesh Manyar" },
-  { id: "typewriter-title", text: "Frontend Developer" },
+  { id: "typewriter-title", text: "Fullstack Developer" },
   // { id: "typewriter-description", text: "Hey, I am Aawesh Manyar, currently pursuing a degree in Computer Science Engineering at GHRIEBM Jalgaon, Maharashtra." },
 ];
 
