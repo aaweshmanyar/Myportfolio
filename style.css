@@ -483,7 +483,7 @@ span {
 }
 
 .bottom span {
-  font-size: 14px; /* Adjust font size for better readability on small screens */
+  font-size: 12px; /* Adjust font size for better readability on small screens */
   text-align: left; /* Align text to the left */
 }
 
@@ -503,7 +503,7 @@ color: black;
   
 }
 .bottom span{
-  font-size: 1rem;
+  font-size: 14px;
 }
 
 .bottom i{
